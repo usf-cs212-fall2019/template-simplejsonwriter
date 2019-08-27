@@ -1,2 +1,3 @@
-# template-simplejsonwriter
-SimpleJsonWriter
+# SimpleJsonWriter
+
+See [README](SimpleJsonWriter/README) for details.
