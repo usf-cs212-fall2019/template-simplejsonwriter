@@ -1,3 +1,3 @@
 # SimpleJsonWriter
 
-See [README](SimpleJsonWriter/README) for details.
+See [README](SimpleJsonWriter/README.md) for details.
