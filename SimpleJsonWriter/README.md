@@ -15,9 +15,9 @@ Note that there is no comma after the last element in the array. Objects look li
 
 ```
 {
-	"one": 1,
-	"two": 2,
-	"three": 3
+	"ant": 1,
+	"bee": 2,
+	"cow": 3
 }
 ```
 
@@ -25,14 +25,14 @@ Note that strings and keys are always in `"` quotation marks, but numbers are no
 
 ```
 {
-	"one": [
+	"ant": [
 		1
 	],
-	"two": [
+	"bee": [
 		1,
 		2
 	],
-	"three": [
+	"cow": [
 		1,
 		2,
 		3
